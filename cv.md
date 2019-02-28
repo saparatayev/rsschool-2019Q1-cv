@@ -1,8 +1,8 @@
-#Sapargeldi Atayev
+# Sapargeldi Atayev
 
 Minsk, Belarus | Cell: +375 25 905-09-80 | sopa.97@mail.ru | https://vk.com/id179701823
 
-##Summary
+## Summary
 
 I make it my goal to start junior front-end developer's career. It's important to have opportunity of professional growth in the front-end sphere. I would be happy to work with friendly, responsive and experienced teammates on projects.
 
@@ -12,7 +12,7 @@ I'm a last-year student of BSUIR. I have fundamental knowledge and skills with m
 
 I'm ready to do my best to grow up as a strong and skillful specialist and to promote company's interests.
 
-##Skills
+## Skills
 
 * Languages:
     * C++;
@@ -29,12 +29,12 @@ I'm ready to do my best to grow up as a strong and skillful specialist and to pr
     * MS SQL Server;
     * Oracle Basics.
 
-##Experience
+## Experience
 
 * BSUIR course project "Carpets Online-Store"
 * BSUIR diploma project "Taekwondo trainer's Automated Workplace"
 
-##Education
+## Education
 
 Belarusian State University of Informatics and Radioelectronics, 2015-2019
 
@@ -42,7 +42,8 @@ Minsk, Belarus
 
 Fourth year student
 
-##Knowlege of English
+## Knowlege of English
 
 * Level - Intermediate;
-* TOEFL PBT(*Test of English as a Foreign Language, paper-based test*) score - 440 points, 2013.
+* TOEFL PBT(*Test of English as a Foreign Language, paper-based test*) score - 440 points, 2013;
+* IELTS (*International English Language Testing System*) score - 5.5 (maximum 9.0), October, 2015, certificate in stock.
