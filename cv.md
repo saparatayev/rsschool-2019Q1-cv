@@ -1,6 +1,6 @@
 # Sapargeldi Atayev
 
-Minsk, Belarus | Cell: +375 25 905-09-80 | sopa.97@mail.ru | https://vk.com/id179701823
+Minsk, Belarus | Cell: +375 25 905-09-80 | [Email](sopa.97@mail.ru) | [VK](https://vk.com/id179701823)
 
 ## Summary
 
