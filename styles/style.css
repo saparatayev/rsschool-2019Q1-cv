@@ -1,0 +1,74 @@
+header {
+    width: 1024px;
+     display: flex;
+    /*justify-content: center;*/
+    flex-direction: column; 
+}
+
+.contacts {
+    width: 35%;
+    height: 135px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.info {
+    width: 174px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.image {
+    height: 135px;
+    width: 40%;
+    background: url(../assets/OjrnUSSE50.jpg);
+    background-position: 50%;
+    border-radius: 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    width: 1022px;
+    height: 1px;
+    margin-top: 18px;
+}
+
+.info a {
+    text-decoration: none;
+    color: black;
+}
+
+.info a:hover {
+    color: blue;
+}
+
+* {
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 1024px;
+}
+
+footer {
+    width: 1024px;
+    margin-top: 71px;
+}
+
+.body-flex {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    margin: 0px;
+    width: 100%;
+    min-width: 1024px;
+    max-width: 1920px;
+}
