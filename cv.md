@@ -1,46 +1,51 @@
 # Sapargeldi Atayev
 
-Minsk, Belarus | Cell: +375 25 905-09-80 | [Email](sopa.97@mail.ru) | [VK](https://vk.com/id179701823)
+Ashgabat, Turkmenistan | Cell: +99365611968 | [Email](https://e.mail.ru/compose/?mailto=mailto%3Asopa.97%40mail.ru) | [Gmail](https://e.mail.ru/compose/?mailto=mailto%3Asapar.ad3775ag%40gmail.com)
 
 ## Summary
 
-I make it my goal to start junior front-end developer's career. It's important to have opportunity of professional growth in the front-end sphere. I would be happy to work with friendly, responsive and experienced teammates on projects.
+I make it my goal to strengthen my position as a web-developer. It's important for me to have opportunity of professional growth in the web-development sphere. I would be happy to work with friendly, responsive and experienced teammates on projects.
 
 I'm ready to spend a lot of time to what I like - development. I can motivate and discipline myself. I'm capable of finding common grounds with people, with teammates. I always support criticism to my address according to my technical skills and go forward to liquidate every drawback.
 
-I'm a last-year student of BSUIR. I have fundamental knowledge and skills with minimum experience in technologies that I'm giong to mention later in "Skills" section. But lack of experience will not prevent me to learn **new** and to learn **a lot.**
+I'm a graduate student of [BSUIR](https://www.bsuir.by/). I have fundamental knowledge and skills with some experience in technologies that I'm going to mention later in Skills section. But this all will not prevent me to learn **new**, to learn **a lot** and **develop** myself as a web-developer.
 
 I'm ready to do my best to grow up as a strong and skillful specialist and to promote company's interests.
 
 ## Skills
 
-* Languages:
-    * C++;
-    * VBA;
-    * Java Basics;
-    * Java-Android Basics;
-    * PHP basics;
-    * HTML Basics;
-    * CSS Basics.
+* Web-development skills:
+    * HTML5;
+    * CSS3;
+    * SСSS;
+    * JS (native),JQuery,Vue JS;
+    * PHP (native), Laravel-PHP;
+    * Git Basics.
 * Databases:
     * SQL;
     * FoxPro;
     * MySQL;
     * MS SQL Server;
     * Oracle Basics.
+* Other languages 
+    * C++
+    * VBA
+    * Java Basics
+    * Java-Android Basics
 
 ## Experience
 
-* BSUIR course project "Carpets Online-Store"
+* BSUIR course project "Online-Store"
 * BSUIR diploma project "Taekwondo trainer's Automated Workplace"
+* [Simple Cards Game](https://findpair-f0d76.web.app/)
+* My CV on GitHub (you are reading right now) and [my CV on Firebase](https://sapar-cv.firebaseapp.com/en?title=S.%20Atayev)
+* I am a frontend-developer in "Türkmentelekom" Telecommunication Company since August 2019
 
 ## Education
 
 Belarusian State University of Informatics and Radioelectronics, 2015-2019
 
 Minsk, Belarus
-
-Fourth year student
 
 ## Knowlege of English
 
