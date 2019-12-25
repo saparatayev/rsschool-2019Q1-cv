@@ -11,7 +11,8 @@
 
 body {
   background-image: url(../assets/IMG_5717.JPG);
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  background-size: cover; }
 
 .card {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5)));
