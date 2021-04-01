@@ -1,6 +1,6 @@
 # Sapargeldi Atayev
 
-Ashgabat, Turkmenistan | Cell: +99365611968 | [Email](https://e.mail.ru/compose/?mailto=mailto%3Asopa.97%40mail.ru) | [Gmail](https://e.mail.ru/compose/?mailto=mailto%3Asapar.ad3775ag%40gmail.com)
+Ashgabat, Turkmenistan | Cell: +99365611968 | [MailRu](https://e.mail.ru/compose/?mailto=mailto%3Asopa.97%40mail.ru) | [Gmail](https://e.mail.ru/compose/?mailto=mailto%3Asapar.ad3775ag%40gmail.com)
 
 ## Summary
 
@@ -18,28 +18,24 @@ I'm ready to do my best to grow up as a strong and skillful specialist and to pr
     * HTML5;
     * CSS3;
     * SСSS;
-    * JS (native),JQuery,Vue JS;
+    * JS (native),JQuery;
+    * Vue JS, Nuxt JS;
     * PHP (native), Laravel-PHP;
     * Git Basics.
 * Databases:
     * SQL;
-    * FoxPro;
     * MySQL;
     * MS SQL Server;
     * Oracle Basics.
-* Other languages 
-    * C++
-    * VBA
-    * Java Basics
-    * Java-Android Basics
+* Other languages:
+    * C++ Basics;
+    * VBA.
 
 ## Experience
 
-* BSUIR course project "Online-Store"
-* BSUIR diploma project "Taekwondo trainer's Automated Workplace"
-* [Simple Cards Game](https://findpair-f0d76.web.app/)
-* My CV on GitHub (you are reading right now) and [my CV on Firebase](https://sapar-cv.firebaseapp.com/en?title=S.%20Atayev)
-* I am a frontend-developer in "Türkmentelekom" Telecommunication Company since August 2019
+* frontend-developer in ["Türkmentelekom"](https://telecom.tm/) Telecommunication Company (August 2019 – January 2020)
+
+* web-developer in [“Sanly Tilsimat”](https://st.com.tm/) business association (since March 2020)
 
 ## Education
 
@@ -47,8 +43,20 @@ Belarusian State University of Informatics and Radioelectronics, 2015-2019
 
 Minsk, Belarus
 
-## Knowlege of English
+## Portfolio
 
-* Level - Intermediate;
-* TOEFL PBT(*Test of English as a Foreign Language, paper-based test*) score - 440 points, 2013;
-* IELTS (*International English Language Testing System*) score - 5.5 (maximum 9.0), October, 2015, certificate in stock.
+* [Test Game (just for fun)](https://findpair-f0d76.web.app/)
+
+* [https://alaw.biz](https://alaw.biz)
+
+* [https://brandcoll.com.tm/](https://brandcoll.com.tm/)
+
+* [https://market.turkmenpost.gov.tm/](https://market.turkmenpost.gov.tm/)
+
+* [https://archive.gov.tm/](https://archive.gov.tm/)
+
+* [https://turkmenatlary.gov.tm/](https://turkmenatlary.gov.tm/)
+
+* [http://garlykkaliy.com.tm/](http://garlykkaliy.com.tm/)
+
+* [http://maryawtoulag.com.tm/](http://maryawtoulag.com.tm/)
