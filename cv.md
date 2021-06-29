@@ -21,6 +21,7 @@ I'm ready to do my best to grow up as a strong and skillful specialist and to pr
     * JS (native),JQuery;
     * Vue JS, Nuxt JS;
     * PHP (native), Laravel-PHP;
+    * GoLang Basics;
     * Git Basics.
 * Databases:
     * SQL;
@@ -33,9 +34,12 @@ I'm ready to do my best to grow up as a strong and skillful specialist and to pr
 
 ## Experience
 
-* frontend-developer in ["Türkmentelekom"](https://telecom.tm/) Telecommunication Company (August 2019 – January 2020)
+* web-developer in ["Türkmentelekom"](https://telecom.tm/) Telecommunication Company (August 2019 – February 2020)
 
-* web-developer in [“Sanly Tilsimat”](https://st.com.tm/) business association (since March 2020)
+* web-developer in [“Sanly Tilsimat”](https://st.com.tm/) business association (March 2020 - June 2021)
+
+* web-developer in [“TPS Advertising Agency”](https://tpsadvertising.com/) 
+(since June 2021)
 
 ## Education
 
@@ -46,6 +50,8 @@ Minsk, Belarus
 ## Portfolio
 
 * [Test Game (just for fun)](https://findpair-f0d76.web.app/)
+
+* [Firebase CV](https://sapar-cv.web.app/)
 
 * [https://alaw.biz](https://alaw.biz)
 
@@ -60,3 +66,20 @@ Minsk, Belarus
 * [http://garlykkaliy.com.tm/](http://garlykkaliy.com.tm/)
 
 * [http://maryawtoulag.com.tm/](http://maryawtoulag.com.tm/)
+
+
+## Github
+
+* [Vue CLI SPA Project - Articles](https://github.com/saparatayev/vuearticles)
+
+* [GoLang REST API - Todo List](https://github.com/saparatayev/zhashkevichrestapi)
+
+* [Laravel REST API + VUE SPA Frontend - Articles](https://github.com/saparatayev/restfulapilaravel)
+
+* [Laravel REST API - Quotes](https://github.com/saparatayev/laravelquotesapi)
+
+* [Laravel Online Store](https://github.com/saparatayev/saparnew4)
+
+* [Vue CLI SPA Project - Quotes](https://github.com/saparatayev/lvue)
+
+* [GoLang small project](https://github.com/saparatayev/gowebapp2)
