@@ -49,8 +49,6 @@ Minsk, Belarus
 
 ## Portfolio
 
-* [Test Game (just for fun)](https://findpair-f0d76.web.app/)
-
 * [Firebase CV](https://sapar-cv.web.app/)
 
 * [https://alaw.biz](https://alaw.biz)
