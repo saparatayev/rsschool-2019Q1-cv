@@ -12,21 +12,20 @@ I am a graduate student of [BSUIR](https://www.bsuir.by/). I have fundamental kn
 
 ## Skills
 
-* Web-development skills:
-    * PHP, Laravel;
-    * SQL, MySQL;
-    * JavaScript, JQuery;
-    * Ajax;
-    * REST API, GraphQL;
-    * Vue JS Basics;
-    * HTML;
-    * CSS;
-    * SСSS;
-    * GoLang Basics;
-    * Git;
-    * October CMS;
-    * C++ Basics;
-    * VBA.
+* PHP, Laravel;
+* SQL, MySQL;
+* JavaScript, JQuery;
+* Ajax;
+* REST API, GraphQL;
+* Vue JS Basics;
+* HTML;
+* CSS;
+* SСSS;
+* GoLang Basics;
+* Git;
+* October CMS;
+* C++ Basics;
+* VBA.
 
 ## Experience
 
